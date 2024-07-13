@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icons {
+  padding-top: 12.5px;
+  padding-bottom: 8px;
+  padding-left: 12px;
+  padding-right: 12.3px;
+}
